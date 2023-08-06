@@ -16,7 +16,7 @@
 > Use ChatGPT On Wechat via wechaty  
 > English | [中文文档](README_ZH.md)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/dMLG70?referralCode=bIYugQ)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/dMLG70)
 
 ## 🌟 Features
 
